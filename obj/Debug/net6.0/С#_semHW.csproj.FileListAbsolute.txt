@@ -1,0 +1,15 @@
+C:\Users\minae\Desktop\С#_semHW\bin\Debug\net6.0\С#_semHW.exe
+C:\Users\minae\Desktop\С#_semHW\bin\Debug\net6.0\С#_semHW.deps.json
+C:\Users\minae\Desktop\С#_semHW\bin\Debug\net6.0\С#_semHW.runtimeconfig.json
+C:\Users\minae\Desktop\С#_semHW\bin\Debug\net6.0\С#_semHW.dll
+C:\Users\minae\Desktop\С#_semHW\bin\Debug\net6.0\С#_semHW.pdb
+C:\Users\minae\Desktop\С#_semHW\obj\Debug\net6.0\С#_semHW.csproj.AssemblyReference.cache
+C:\Users\minae\Desktop\С#_semHW\obj\Debug\net6.0\С#_semHW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minae\Desktop\С#_semHW\obj\Debug\net6.0\С#_semHW.AssemblyInfoInputs.cache
+C:\Users\minae\Desktop\С#_semHW\obj\Debug\net6.0\С#_semHW.AssemblyInfo.cs
+C:\Users\minae\Desktop\С#_semHW\obj\Debug\net6.0\С#_semHW.csproj.CoreCompileInputs.cache
+C:\Users\minae\Desktop\С#_semHW\obj\Debug\net6.0\С#_semHW.dll
+C:\Users\minae\Desktop\С#_semHW\obj\Debug\net6.0\refint\С#_semHW.dll
+C:\Users\minae\Desktop\С#_semHW\obj\Debug\net6.0\С#_semHW.pdb
+C:\Users\minae\Desktop\С#_semHW\obj\Debug\net6.0\С#_semHW.genruntimeconfig.cache
+C:\Users\minae\Desktop\С#_semHW\obj\Debug\net6.0\ref\С#_semHW.dll
